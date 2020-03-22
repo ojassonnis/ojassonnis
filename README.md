@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://www.ojassonnis.com/)](https://www.ojassonnis.com/)
+[![Resume Preview](https://ojassonnis.com/)](https://ojassonnis.com/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
